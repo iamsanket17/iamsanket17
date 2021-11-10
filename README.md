@@ -1,0 +1,5 @@
+- 👋 Hola, I am Sanket Patel.
+- 👨‍🎓 I am a student pursuing major in Computer Science and minor in Business Administration at UIC.
+- 👀 I’m interested in solving technical problems.
+- 🌱 I’m currently learning AWS, GCP and Microsoft Azure.
+- 📫 How to reach me :- Twitter: @_sanket_teknas_ 
